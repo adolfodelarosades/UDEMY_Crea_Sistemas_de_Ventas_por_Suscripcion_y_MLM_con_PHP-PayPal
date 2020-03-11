@@ -14,109 +14,53 @@
 
 ## Bienvenida 09:09
 
-Tengan un cordial saludo y convenios.
+Tengan un cordial saludo.
 
-Este curso crea sistemas de ventas por suscripción y marketing multinivel con PHP y Paipa.
+Este curso crea sistemas de ventas por suscripción y marketing multinivel con PHP y PayPal.
 
 Mi nombre con Fernando Urrego y seré quien los acompañaré en este proceso de aprendizaje.
 
 El gran negocio del siglo XXI son los sistemas de suscripción.
 
-Empresas como Netflix Amazon Apold PlayStation entre otras grandes ofrecen servicios de entretenimiento
+Empresas como Netflix, Amazon, Apple, PlayStation entre otras grandes ofrecen servicios de entretenimiento o capacitación bajo esta metodología de ventas por suscripción.
 
-o capacitación bajo esta metodología de ventas por suscripción.
+En ese curso te enseñaré desde cero crear una plataforma web para ofrecer cualquier servicio producto a través de pagos cíclicos y automatizados.
 
-En ese curso te enseñaré desde cero crear una plataforma web para ofrecer cualquier servicio producto
+Utilizaremos la API de PayPal, PHP en su versión 7 y bases de datos MySQL.
 
-a través de pagos cíclicos y automatizados.
+Además te enseñará a integrar programas de afiliados y herramientas de marketing multinivel en este sistema para que los mismos consumidores se conviertan en los mejores vendedores de la empresa.
 
-Utilizaremos la API de PayPal PHP en su versión 7 y bases de datos Maye SQL.
+En esta clase te hablaré del alcance que tiene este curso vamos a mirar.
 
-Además te enseñará a integrar programas de afiliados y herramientas de marketing multinivel en este
+Un [sistema de ventas por suscripción](https://marvelapp.com/eggg919/screen/48785985) no es más que un modelo de negocio donde rentas un producto o servicio de forma periódica mensual, semestral o anual y se basa en encontrar un patrón de compra automatizado que sea repetitivo donde el único objetivo es encontrar más y más suscriptores.
 
-sistema para que los mismos consumidores se conviertan en los mejores vendedores de la empresa.
+En este curso te voy a enseñar a hacer una página de aterrizaje que va a ser lo que el cliente se va a encontrar por primera vez con el sistema.
 
-En esta clase te hablaré del alcance que tiene este curso vamos a mirar un sistema de ventas por suscripción
-
-no es más que un modelo de negocio donde rentas un producto o servicio de forma periódica mensual semestral
-
-o anual y se basa en encontrar un patrón de compra automatizado que sea repetitivo donde el único objetivo
-
-es encontrar más y más suscriptores.
-
-En este curso te voy a enseñar a hacer una página de aterrizaje que va a ser lo que el cliente se va
-
-a encontrar por primera vez con el sistema.
-
-Acá le mostraremos que tiene la opción de adquirir una suscripción gratuita y una suscripción paga.
+Acá le mostraremos que tiene la opción de adquirir una suscripción gratuita y una suscripción de paga.
 
 Por qué es importante tener la opción de prueba gratuita con limitaciones.
 
 Obviamente a determinadas herramientas.
 
-Porque esta prueba gratuita va a servir de gancho para pasar a la opción paga el usuario se podrá registrar
+Porque esta prueba gratuita va a servir de gancho para pasar a la opción de paga el usuario se podrá registrar a través de un formulario y pasar a lo que se llamará La oficina virtual o la página Back-Office.
 
-a través de un formulario y pasar a lo que se llamará La oficina virtual o la página Cofis esta página
+Esta página Back-Office la vamos a desarrollar con la [plantilla AdminLTE](https://adminlte.io/) en su última versión que ella incorpora Bootstrap 4 y un montón de recursos interactivos.
 
-va Cofis la vamos a desarrollar con la plantilla admin LT En su última versión que ella incorpora vostra
+En este Back Office el usuario podrá tener entonces acceso a los productos o servicios que está adquiriendo con la suscripción y si ingresó de forma gratuita entonces va a tener que activar la membresía si quiere ver todos los videos en este caso por tratarse de una plataforma educativa para poder ver todos los videos tendrá que comenzar la suscripción.
 
-4 y un montón de recursos interactivos.
+Te enseñará entonces a hacer un formulario para capturar toda esa información y aceptar unos términos y condiciones para que se convierta en un vendedor de la empresa ya que voy a enseñar a integrar programas de afiliados y marketing multinivel que son sistemas que ayudan a que esa persona se empodere de los servicios de la empresa para poder ganar comisiones, te enseñaré entonces dentro de la misma plataforma hacer esas dos versiones la versión gratuita y la versión paga del sistema.
 
-En este back office el usuario podrá tener entonces acceso a los productos o servicios que está adquiriendo
-
-con la suscripción y si ingresó de forma gratuita entonces va a tener que activar la membresía si quiere
-
-ver todos los videos en este caso por tratarse de una plataforma educativa para poder ver todos los
-
-videos tendrá que comenzar la suscripción.
-
-Te enseñará entonces a hacer un formulario para capturar toda esa información y aceptar unos términos
-
-y condiciones para que se convierta en un vendedor de la empresa ya que voy a enseñar a integrar programas
-
-de afiliados y marketing multinivel que son sistemas que ayudan a que esa persona se empodere.
-
-De los servicios de la empresa para poder ganar comisiones te enseñaré entonces dentro de la misma plataforma
-
-hacer esas dos versiones la versión gratuita y la versión paga del sistema.
-
-También te enseñaré a hacer suscripciones y pagos automatizados con PayPal PayPal ofrece dos opciones
-
-ofrece crear un botón de suscripción y ofrece trabajar con su API para poder interactuar con nuestra
-
-base de datos.
-
-Toda la información de pagos a través de esta plataforma.
+También te enseñaré a hacer suscripciones y pagos automatizados con PayPal. PayPal ofrece dos opciones ofrece crear un botón de suscripción y ofrece trabajar con su API para poder interactuar con nuestra base de datos, toda la información de pagos a través de esta plataforma.
 
 Entonces te voy a explicar cómo integrar a través de la API de PayPal.
 
-Toda la información que necesitamos para poder hacer parte de su sistema de suscripción con todos los
+Toda la información que necesitamos para poder hacer parte de su sistema de suscripción con todos los ensayos pruebas que se puedan hacer ya que lo vamos a hacer en modo Sanbox en este curso, ya cuando se monte la plataforma en un hosting podríamos cambiar a la versión real a la versión live.
 
-ensayos pruebas que se puedan hacer ya que lo vamos a hacer en Mozambique.
+También le voy a enseñar entonces como te lo mencioné a integrar un programa afiliados, así como lo hacen empresas como Udemy a través de Rakuten marketing invita a que otras personas ayuden a vender más cursos, ayuden a vender cursos de otros instructores, si lo hacen ganan comisiones.
 
-En este curso ya cuando se monte la plataforma en un hosting podríamos cambiar a la versión real a la
-
-versión libre.
-
-También le voy a enseñar entonces como te lo mencioné a integrar un programa afiliados así como lo hacen
-
-empresas de mí a través de Rakuten marketing invita a que otras personas ayuden a vender más cursos.
-
-Ayúdenme ayuden a vender cursos de otros instructores.
-
-Si lo hacen ganan comisiones en este curso.
-
-Vamos a integrar también esa opción de que si la persona se suscribe al sistema pueda tener un enlace
-
-de afiliado para ser compartido no pueda copiar en el portapapeles y luego compartirlo en sus redes
-
-sociales para que si una persona llega a comprar la suscripción a través de ese enlace afiliado la persona
-
-que está afiliada gane comisión.
-
-Por eso por esa venta que se está generando te voy a enseñar a incluir material publicitario que es
-
-necesario entre estos sistemas para que la persona pueda compartir en sus redes sociales ya sean imágenes
+En este curso vamos a integrar también esa opción de que si la persona se suscribe al sistema pueda tener un enlace de afiliado para ser compartido, lo pueda copiar en el portapapeles y luego compartirlo en sus redes sociales para que si una persona llega a comprar la suscripción a través de ese enlace afiliado, la persona que está afiliada gane comisión por esa venta que se está generando.
+*********************
+Te voy a enseñar a incluir material publicitario que es necesario entre estos sistemas para que la persona pueda compartir en sus redes sociales ya sean imágenes
 
 o ya sean videos o ya sean banners o lo que se necesite para poder compartir en redes sociales.
 
