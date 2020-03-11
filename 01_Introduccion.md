@@ -109,6 +109,108 @@ Como desarrollador web simplemente queda decirte bienvenido a este curso y estoy
 
 ## Recursos - parte 1 11:49
 
+En esta clase vamos a hablar de todos los recursos que utilizaremos durante todo este desarrollo de aprendizaje si vamos a trabajar PHP en su versión 7 y con bases de Hatsumi SQL como primero necesitamos un servidor local instalado en nuestra computadora un servidor local es una herramienta que nos va a simular lo que hace un hosting en Internet.
+
+Cuando tú subes una página web a internet tú necesitas de unos módulos para que funcione el PHP y sus bases de datos SQL.
+
+Eso es lo que hace un servidor local simula estos módulos en tu computadora sin necesidad de tener el proyecto subido a internet.
+
+Yo siempre recomiendo en mis cursos donde trabajamos PHP o bases de datos utilizar el serbio local SAP.
+
+Hay muchos más están WAM Server Elissa y PHP.
+
+El MAP pero para cuestiones de agilidad estabilidad y no tener problemas con el código más adelante te recomiendo que en este curso utilices el SAP lo puedes instalar sin problema en tu computadora puede ser de varios servidores locales en tu computadora.
+
+No hay ningún inconveniente lo importante es que siempre inicies el servidor cuando vamos a trabajar en este proyecto.
+
+Entonces para descargar el SAP lo único que tenemos que hacer es dirigirnos a la página oficial de SAP la puedes buscar en Google la palabra clave es Sam y te puedes ir a la descarga de SAP en ese momento nos muestra todas las versiones disponibles que han ido actualizando esta es la última las 7 punto 3.3.
+
+En mi caso yo seguí trabajando con las siete punto 1.27 porque instalé el SAP hace algunos meses o un año atrás.
+
+No he tenido la necesidad de subir al 7 punto 3.3 porque sigue comportándose en la manera en que lo necesito.
+
+Acá nos explican que está incluido que qué actualizaciones se han hecho muy bien en este caso simplemente haz clic en Descargar.
+
+De acuerdo a tu sistema operativo te aparecerá acá o si no en la segunda pestaña aparece s'han para Windows para linos o para Paice X ok.
+
+En ese caso sería para Windows.
+
+Haz click descargas y aparecerá entonces el instalador ya en la opción de descargas.
+
+Cuando le haz click al instalador de abrir la ventanita Nami y nos aparece un aviso nos dicen para poder activar el Zam y no tener problemas necesitamos entonces desactivar y dar permisos de escritura una opción que se llama user ACAM control o hace entonces para poder desactivar el Waze en nuestro sistema Windows lo que podemos hacer es dirigirnos con la ventanita en la tecla de la ventanita la tecla de comandos que tenemos en el teclado que tiene el símbolo de Windows más la R nos debe abrir el ejecutado del ejecutado lo vamos a ejecutar el MS Conficker entonces damos Aceptar nos vamos a ir para herramientas vamos a ir para cambiar configuración de Waze veamos iniciar y tenemos que bajar hasta el final hasta la parte de abajo esta pestaña ok.
+
+Normalmente como por acá vamos a bajar hasta el final le damos a Aceptar y la vamos a aceptar y ya le podemos continuar con la instalación del Zam.
+
+Si tú ya tienes otro instalado como en mi caso lo que puedes hacer es crear una carpeta adicional Unsam 3.
+
+Por ejemplo yo ya tengo el SAM 1 que fue con PHP 5 el Sandoz con PHP 7 ahora que tiene ya otra su actualización.
+
+Si quiero puedo instalarlo en el Sam 3 o simplemente dejar Zab si es primera vez que lo vas a instalar y continuar continuar continuar continuar hasta finalizar la instalación.
+
+Ok voy a salir del proceso instalación porque ya tengo el SAM instalado miralo acá tengo el Sam 2 que es PHP 7 y lo que necesitamos definir es que trabajaremos en la carpeta HT Docs aquí están todos los proyectos con los que he trabajado.
+
+Ok aquí es donde vamos a trabajar.
+
+Nuestro sistema de segundo recurso que vamos a necesitar es un editor de código en este curso y en todos los que yo dicto siempre recomiendo el editor de código Sulantay.
+
+Hay muchos más claro esta Autana está brackets esta Visual Studio.
+
+Qué se yo en el que te sientas mucho más cómodo trabajar pero por qué te recomiendo sus lentes.
+
+Porque en este curso voy a enseñarte a utilizar algunos plugins y atajos para la agilización del desarrollo.
+
+Entonces si quieres puedes tener varios editores instalados en tu computadora.
+
+No hay problema.
+
+Te recomiendo instalar sus lentes en su versión 3 luzcas que es la última versión.
+
+Lo buscamos en Google sus lentes y nos aparece la página oficial y nos dice la descarga para Windows normalmente él descarga como una versión Frin cuando tienes la versión free.
+
+Lo que sucede es que aparece una ventanita a veces cuando estás trabajando en el programa donde te dice que si quieres pasarte a la versión Pro simplemente haz clic sobre el botón que da la ventana.
+
+Obviamente no vamos a cambiarnos a la versión pero si no lo quieres comprar puedes continuar sin problema trabajando en la versión Frin.
+
+Cierras esa ventanita y continúas trabajando.
+
+Yo sí compré la versión Pro y aquí está instalada en mi computador por eso a mí no me aparece la ventanita mientras estoy explicando en el curso.
+
+Es algo muy tedioso que me aparezca la ventanita cada vez que estoy dando una clase.
+
+Ok entonces ya tiene terminando su Leites instalado.
+
+Pasemos a lo que son los plugins que vamos a utilizar.
+
+Son plugins para agilizar el desarrollo en este entorno de trabajo para poder instalar plugins en sus lentes necesitamos instalar lo que se llama el control o el control de paquetes.
+
+Aquí está la dirección del control o simplemente lo vamos a buscar en Google como Aakash control entonces cuando ingresas a la página oficial del control acá te dicen las instrucciones de instalación te vas a meter a la pestaña Sulantay estrés que es la última versión que descargase copias este código o esta escritura y acá nos dice que debemos ir a la pestaña View Chow Conso y luego copiar esto los copiamos esto una vez nos vamos para BYU vistas Chop Consol visualizar consola y pegás ese código acá le haz click derecho pegar.
+
+Yo no lo hago porque ya tengo el control instalado.
+
+Entonces simplemente es pegarlo y aquí te muestra todo el proceso de la instalación cuando ya está instalado completamente puedes salirte con Skype y en preferencias te aparecerá esa pestaña de control y ya con esto instalado podemos comenzar a instalar esos plugins estos plugins Aquí hay seis plugins que vamos a utilizar mucho en ese curso te lo voy a compartir en una siguiente clase como documento de texto para que veas el funcionamiento o los atajos.
+
+El primer plugin que vamos a instalar es el MKT recuerda que esto es sólo para sus lentes en su versión 3 entonces vamos a instalar el Emet preferencias pagas control instalar paquetes debe aparecer una ventana nueva y buscamos el plugin Emet lo cual vamos a instalar este primerito tal cual como está escrito Emet.
+
+Qué hace este plugin de Emet.
+
+Por ejemplo yo tengo un nuevo archivo y luego estoy trabajando en sintaxis HTML me da el atajo de construir una estructura HTML muy rápido simplemente con el cine admiración invertido ítalo y vamos a ver si si no lo instalo bien preferencias pacá setting Emet muy bien ahí está vamos a hacer otras elejercicio sintaxis HTML que ahora ya está dando ya me está dando los tips me no me toma a colocar HTML ahora si se mira simplemente con HTML obstaculo inmediatamente me aparece la estructura de un documento HTML.
+
+Si yo coloco por ejemplo un dip ovulo aparece la etiqueta completa si yo coloco un huele a ulo y dentro coloco un Elai multiplicado por cinco y solo bien no me está dando todas las funciones completas del EMET y tuve que cerrar su Leites volverlo a abrir está presentando conflicto con la instalación de Emet.
+
+Ahora si vamos a colocar un documento HTML vamos a abrir uno nuevo colocamos HTML obstaculo y ahora si me aparece la estructura HTML estamos explicando que si colocamos un dip aparecía sin problema que si colocamos un 9 aparece sin problema.
+
+Y si multiplicamos Ucelay por 5 aparecían los 5 elegi perfecto esto era lo que necesitaba con el plugin
+
+Emet que me ayuda a agilizar el proceso de maquetación.
+
+Vamos a instalar otro paquete de Emet que viene siendo pero vamos a que aparezca sanarte paquetes Emet CSS CSS snippets cuando yo instalo el MTSS Stripped me permite hacer lo siguiente Vamos a cerrar acá cerrar acá vamos a colocar un documento de tipo CSS.
+
+Vamos a colocar unas opciones globales y me saca las propiedades en atajo.
+
+Por ejemplo se colocó la PEM me saca todo lo que pude utilizar con la P en el CSS se colocó la N y colocó la a perfecto son atajos entonces que puede utilizar Emet CSS snippets que no lo coloque acá vamos a ponerlo CSS es Ninet muy bien otro atajo que vamos a ver.
+
+Otro plugin es el auto Fainé nos permite autocompletar la ruta del archivo vincular eso te lo voy a explicar en la próxima clase.
+
 ## Recursos - parte 2 17:07
 
 ## Plugins para agilizar el desarrollo - documento 00:26
