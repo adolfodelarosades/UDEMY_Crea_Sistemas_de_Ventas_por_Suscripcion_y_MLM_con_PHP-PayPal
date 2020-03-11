@@ -109,34 +109,30 @@ Como desarrollador web simplemente queda decirte bienvenido a este curso y estoy
 
 ## Recursos - parte 1 11:49
 
-En esta clase vamos a hablar de todos los recursos que utilizaremos durante todo este desarrollo de aprendizaje si vamos a trabajar PHP en su versión 7 y con bases de Hatsumi SQL como primero necesitamos un servidor local instalado en nuestra computadora un servidor local es una herramienta que nos va a simular lo que hace un hosting en Internet.
+En esta clase vamos a hablar de todos los recursos que utilizaremos durante todo este desarrollo de aprendizaje.
 
-Cuando tú subes una página web a internet tú necesitas de unos módulos para que funcione el PHP y sus bases de datos SQL.
+Vamos a trabajar con PHP en su versión 7 y con bases de datos MySQL. Primero necesitamos un servidor local instalado en nuestra computadora, un servidor local es una herramienta que nos va a simular lo que hace un hosting en Internet.
 
-Eso es lo que hace un servidor local simula estos módulos en tu computadora sin necesidad de tener el proyecto subido a internet.
+Cuando tú subes una página web a internet tú necesitas de unos módulos para que funcione el PHP y sus bases de datos MySQL.
 
-Yo siempre recomiendo en mis cursos donde trabajamos PHP o bases de datos utilizar el serbio local SAP.
+Eso es lo que hace un servidor local, simula estos módulos en tu computadora sin necesidad de tener el proyecto subido a internet.
 
-Hay muchos más están WAM Server Elissa y PHP.
+Yo siempre recomiendo en mis cursos donde trabajamos PHP o bases de datos utilizar el servidor local XAMP.
 
-El MAP pero para cuestiones de agilidad estabilidad y no tener problemas con el código más adelante te recomiendo que en este curso utilices el SAP lo puedes instalar sin problema en tu computadora puede ser de varios servidores locales en tu computadora.
+Hay muchos más están WAM Server, Elissa PHP, MAP pero para cuestiones de agilidad estabilidad y no tener problemas con el código más adelante te recomiendo que en este curso utilices XAMP, lo puedes instalar sin problema en tu computadora, puede tener varios servidores locales en tu computadora.
 
 No hay ningún inconveniente lo importante es que siempre inicies el servidor cuando vamos a trabajar en este proyecto.
 
-Entonces para descargar el SAP lo único que tenemos que hacer es dirigirnos a la página oficial de SAP la puedes buscar en Google la palabra clave es Sam y te puedes ir a la descarga de SAP en ese momento nos muestra todas las versiones disponibles que han ido actualizando esta es la última las 7 punto 3.3.
+Entonces para descargar el XAMP lo único que tenemos que hacer es dirigirnos a la [página oficial de XAMP](https://www.apachefriends.org/es/index.html) la puedes buscar en Google la palabra clave es XAMP y te puedes ir a la descarga de XAMP, en ese momento nos muestra todas las versiones disponibles que han ido actualizando esta es la última las 7 punto 3.3. 
 
-En mi caso yo seguí trabajando con las siete punto 1.27 porque instalé el SAP hace algunos meses o un año atrás.
+**Versión Descargada en su momento: XAMPP para OS X 7.4.3 (PHP 7.4.3)**.
 
-No he tenido la necesidad de subir al 7 punto 3.3 porque sigue comportándose en la manera en que lo necesito.
+En mi caso yo seguí trabajando con la 7.1.27 porque instalé el XAMPP hace algunos meses o un año atrás.
 
-Acá nos explican que está incluido que qué actualizaciones se han hecho muy bien en este caso simplemente haz clic en Descargar.
-
-De acuerdo a tu sistema operativo te aparecerá acá o si no en la segunda pestaña aparece s'han para Windows para linos o para Paice X ok.
-
-En ese caso sería para Windows.
+No he tenido la necesidad de subir al 7.3.3 porque sigue comportándose en la manera en que lo necesito.
 
 Haz click descargas y aparecerá entonces el instalador ya en la opción de descargas.
-
+***************
 Cuando le haz click al instalador de abrir la ventanita Nami y nos aparece un aviso nos dicen para poder activar el Zam y no tener problemas necesitamos entonces desactivar y dar permisos de escritura una opción que se llama user ACAM control o hace entonces para poder desactivar el Waze en nuestro sistema Windows lo que podemos hacer es dirigirnos con la ventanita en la tecla de la ventanita la tecla de comandos que tenemos en el teclado que tiene el símbolo de Windows más la R nos debe abrir el ejecutado del ejecutado lo vamos a ejecutar el MS Conficker entonces damos Aceptar nos vamos a ir para herramientas vamos a ir para cambiar configuración de Waze veamos iniciar y tenemos que bajar hasta el final hasta la parte de abajo esta pestaña ok.
 
 Normalmente como por acá vamos a bajar hasta el final le damos a Aceptar y la vamos a aceptar y ya le podemos continuar con la instalación del Zam.
