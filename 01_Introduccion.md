@@ -59,89 +59,53 @@ Toda la información que necesitamos para poder hacer parte de su sistema de sus
 También le voy a enseñar entonces como te lo mencioné a integrar un programa afiliados, así como lo hacen empresas como Udemy a través de Rakuten marketing invita a que otras personas ayuden a vender más cursos, ayuden a vender cursos de otros instructores, si lo hacen ganan comisiones.
 
 En este curso vamos a integrar también esa opción de que si la persona se suscribe al sistema pueda tener un enlace de afiliado para ser compartido, lo pueda copiar en el portapapeles y luego compartirlo en sus redes sociales para que si una persona llega a comprar la suscripción a través de ese enlace afiliado, la persona que está afiliada gane comisión por esa venta que se está generando.
-*********************
-Te voy a enseñar a incluir material publicitario que es necesario entre estos sistemas para que la persona pueda compartir en sus redes sociales ya sean imágenes
 
-o ya sean videos o ya sean banners o lo que se necesite para poder compartir en redes sociales.
+Te voy a enseñar a incluir material publicitario que es necesario entre estos sistemas para que la persona pueda compartir en sus redes sociales ya sean imágenes, ya sean videos, ya sean banners o lo que se necesite para poder compartir en redes sociales.
 
-Hablaremos de la gestión de usuarios cómo podremos administrar estos usuarios desde la base de datos
+Hablaremos de la gestión de usuarios cómo podremos administrar estos usuarios desde la base de datos para saber de qué países están suscribiendo para saber quienes tienen una suscripción activa, quienes la tienen desactivada, poder filtrar por nombres, poder filtrar por países etc.
 
-para saber de qué países están suscribiendo para saber quienes tienen una suscripción activa quienes
+Te enseñaré a crear una plataforma de streaming al estilo Netflix donde los videos no se podrán descargar tan fácil lo normal de un video es que esté en formato mp4 y en el navegador es muy fácil buscar la ruta donde se encuentra ese video para poderlo descargar y lo que hacen muchas personas después de descargar los videos es montarlos en otras plataformas.
 
-la tienen desactivada poder filtrar por nombres poder filtrar por países etcétera.
-
-Te enseñaré a crear una plataforma de streaming al estilo Netflix donde los videos no se podrán descargar
-
-tan fácil lo normal de un video es que esté en formato mp4 y en el navegador es muy fácil buscar la
-
-ruta donde se encuentra ese video para poderlo descargar y lo que hacen muchas personas después de descargar
-
-los videos es montarlos en otras plataformas.
-
-En este caso te voy a enseñar a convertir un video a un formato de streaming para que quede particionado
-
-ese formato ya no permite descargar el video completo sino que tendría que descargar parte por parte
-
-de ese video como si el video estuviera fragmentado en pequeños pedazos.
+En este caso te voy a enseñar a convertir un video a un formato de streaming para que quede particionado, ese formato ya no permite descargar el video completo sino que tendría que descargar parte por parte de ese video como si el video estuviera fragmentado en pequeños pedazos.
 
 Entonces esto ayuda a evitar lo que se llamaría la piratería de videos en cualquier plataforma.
 
 También te voy a enseñar a generar diferentes tipos de redes multinivel.
 
-Por ejemplo la red un nivel vamos a trabajar cuando la persona entra debajo de otra y no hay descendencia
+Por ejemplo la red uni-nivel, vamos a trabajar cuando la persona entra debajo de otra y no hay descendencia, es lo que normalmente se hace en un programa afiliado. Simplemente ayuda a vender el producto y las personas que compran el producto a través de tu enlace afiliados se convierte en tu red uni-nivel.
 
-en lo que normalmente se hace en un programa afiliado.
+Vamos a aprender también a crear una red binaria, la red binarias es aquella red que tiene pata izquierda o pata derecha o lado izquierdo o derecho, donde las comisiones que se generan es a través de la pauta o el lado que menos puntos tenga.
 
-Simplemente ayuda a vender el producto y las personas que compran el producto a través de tu enlace
-
-afiliados se convierte en tu red un nivel vamos a aprender también a crear una red binaria la red binarias
-
-aquella red que tiene pata izquierda o pata derecha o lado izquierdo o derecho donde las comisiones
-
-que se generan es a través de la pauta o el lado que menos puntos tenga en la red matriz cuatro por
-
-cuatro.
-
-Ya estamos hablando otro tipo de red forzada donde tendría que meter a cuatro personas en su primera
-
-línea descendiente y cada una de esas cuatro personas se encargaría de traer a otros cuatro y así se
-
-generarían unas comisiones totalmente diferente de acuerdo a los niveles de profundidad.
+En la red matriz cuatro por cuatro, ya estamos hablando otro tipo de red forzada donde tendría que meter a cuatro personas en su primera línea descendiente y cada una de esas cuatro personas se encargaría de traer a otros cuatro y así se generarían unas comisiones totalmente diferente de acuerdo a los niveles de profundidad.
 
 Todo esto te lo voy a enseñar en este curso paso a paso desde cero.
 
-También hablaremos entonces de la gestión de ingresos y pagos de comisiones cómo podemos llevar un histórico
+También hablaremos entonces de la gestión de ingresos y pagos de comisiones, cómo podemos llevar un histórico esas ganancias que están teniendo las personas y cómo podemos validar que esa persona si se está suscribiendo mes a mes y todo esto en piloto automático, no vas a tener que hacer ninguna acción manual.
 
-esas ganancias que están teniendo las personas y cómo podemos validar que esa persona si se está suscribiendo
+Gracias a la API de PayPal, la API de PayPal nos permite validar si a final del mes la persona se suscribió y si hay que pagarle comisiones.
 
-mes a mes y todo esto en piloto automático no vas a tener que hacer ninguna acción manual.
+También hablaremos de una página donde se explicará el plan de compensación de ese sitio que está ofreciendo la oportunidad de que otras personas ganen dinero con ellos.Es importante dentro de cualquier programa multinivel tener ese plan de compensación.
 
-Gracias a la API de PayPal la API de PayPal nos permite validar si a final del mes la persona se suscribió
+Y por último trabajaremos el soporte al cliente, es una bandeja de entrada al mejor estilo de correos electrónicos para que la persona pueda interactuar con el administrador del back office, puede crear un tiket, adjuntar archivos, puede crear un correo con texto enriquecido, etc. para que el administrador de la plataforma pueda resolver esas inquietudes con respecto a lo que es el sistema de suscripción.
 
-y si hay que pagarle comisiones también hablaremos de una página donde se explicará el plan de compensación
+Trabajaremos muchos plugins. muchas herramientas interactivas las cuales enseñaré paso a paso, cómo integrarlas,  
+demostrar de dónde vienen, cuáles son sus documentaciones, para que tú puedas también seguir manipulandolas en otros proyectos y aprenderás muchísimas cosas.
 
-de ese sitio que está ofreciendo la oportunidad de que otras personas ganen dinero con ellos.
+Como desarrollador web simplemente queda decirte bienvenido a este curso y estoy seguro que no te vas a arrepentir de hacerlo.
 
-Es importante dentro de cualquier programa multinivel tener ese plan de compensación y por último trabajaremos
+#### Resumen ¿Qué vamos a aprender?
 
-el soporte al cliente es una bandeja de entrada al mejor estilo de correos electrónicos para que la
-
-persona pueda interactuar con el administrador del back office puede crear un tique adjuntar archivos
-
-puede crear un correo con texto enriquecido etcétera para que el administrador de la plataforma pueda
-
-resolver esas inquietudes con respecto a lo que es el sistema de suscripción.
-
-Trabajaremos muchos plugins muchas herramientas interactivas las cuales enseñaré paso a paso cómo integrarlas
-
-demostrar de dónde vienen cuáles son sus documentaciones para que tú puedas también seguir manipulando
-
-las en otros proyectos y aprenderás muchísimas cosas como desarrollador web simplemente queda decirte
-
-bienvenido a este curso y estoy seguro que no te vas a arrepentir de hacerlo.
-
-
-
+* Página de aterrizaje
+* Página BackOffice
+* Versión gratuita - versión pagada
+* Suscripción y pagos automatizados con PayPal
+* Programa de afiliación
+* Material publicitario
+* Gestión de usuarios
+* Plataforma de Video-Streaming
+* Tipos de redes multinivel
+* Gestión de ingresos y pagos de comisiones
+* Soporte al cliente
 
 ## Recursos - parte 1 11:49
 
